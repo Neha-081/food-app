@@ -3,7 +3,7 @@ A full functionable Food-App for searching your choice of food and getting descr
 
 > FOOD APP created with HTML, CSS & JS.
 
-> Live demo https://app.netlify.com/sites/food-app-neha.
+> Live demo https://food-app-neha.netlify.app/.
 
 
 ## Sample Snapshot
