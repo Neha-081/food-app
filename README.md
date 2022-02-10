@@ -1,5 +1,5 @@
-# food-app
-A full functionable Food-App for searching your choice of food and getting description about that food, get recipe of the day.
+# FOOD APP :hamburger: :ramen:
+A full functionable Food-App for searching your choice of food and getting description, ingredients about that food, get recipe of the day.
 
 > FOOD APP created with HTML, CSS & JS.
 
