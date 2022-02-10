@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipee Finder</title>
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/1037/1037762.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" type="text/css" href="your_website_domain/css_root/flaticon.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+</head>
+<body>
+  
+    <div class="container">
+        <!-- <h1><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZi2uJLlo9rn6v3voV4qRhcpQqT0eAlRakg&usqp=CAU" style="height: 100px;width: 300px;" ></h1> -->
+        <div class="flex" >
+            <button class="random-btn" >
+                Home
+            </button>
+            <form class="flex" id="submit">
+                <input type="text" id="search" placeholder="Search for Meal (Chicken,Apple... )">
+                <button class="search-btn" id="searchbtn" type="submit">
+                    <i class="fas fa-search"></i>
+                </button>
+            </form>
+            <button class="random-btn" id="random">
+                Get Receipe of the day
+            </button>
+            <button class="random-btn" id="latest">
+                Show Latest Receipe
+            </button>
+        </div>
+
+        <div class="result-heading"></div>
+        <div id="meals" class="meals"></div>
+        <div id="single-meal"></div>
+        <div id="alert"></div>
+        <p id="para"></p>
+    </div>
+   
+  
+
+    
+</body>
+</html>
+
+<script src="index.js" ></script>
+
