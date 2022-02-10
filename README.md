@@ -8,13 +8,27 @@ A full functionable Food-App for searching your choice of food and getting descr
 
 ## Sample Snapshot
 
+
 ### Search food
 
 
-### Description 
+![fhome](https://user-images.githubusercontent.com/87421798/153406909-6c296bd0-5e99-4825-8519-19911e39c2d4.png)
+
+
+
+### Description
+
+
+![fdesc](https://user-images.githubusercontent.com/87421798/153406891-aaf743ce-97be-46e3-aca2-da84b52302ba.png)
+
 
 
 ### Get Recipe of the day
+
+
+![frecpe](https://user-images.githubusercontent.com/87421798/153406913-bcfe8454-0e7e-4205-8642-d58907161b0e.png)
+
+
 
 
 
@@ -32,7 +46,7 @@ Project is created with:
 
 - HTML
 - CSS
-- JS
+- JAVASCRIPT
 
 
 
@@ -50,3 +64,4 @@ Feel free to reach me ->
 - Email - <nehaprajapati1150@gmail.com> 
 - LinkedIn - https://linkedin.com/in/neha-prajapati-1150
 - Twitter - https://twitter.com/NehaPra03810819
+
